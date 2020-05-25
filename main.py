@@ -24,13 +24,19 @@ def get_server_cpu(hostname):
 	stdin, stdout, stderr = client.exec_command('mpstat | tail -c 6')
 
 	s = stdout.read()
-	return str(100 - float(s) 
+	return str(100 - float(s)
 
 def send_key(hostname, key):
 	client = paramiko.SSHClient()
 	client.load_system_host_keys()
 	client.set_missing_host_key_policy()
-	
+
+
+def MONITOR_CLUSTER():
+	s1 = th.Timer(0, get_server_cpu('voltaire')
+
+	pass
+
 if __name__=='__main__':
 	#t = th.Timer(3.0, hello)
 	#t.start()
@@ -60,11 +66,5 @@ if __name__=='__main__':
 
 	logging.debug('done')
 
+	m =  MONITOR_CLUSTER()
 
-def monitor():
-	# run MONITOR_CLUSTER
-	pass
-
-
-if __name__=='__main__':
-	pass
