@@ -7,15 +7,20 @@ import sys
 
 logging.basicConfig(file='log', level=logging.DEBUG, format='(%(threadName)-9s) %(message)s')
 
+client = paramiko.SSHClient()
+client.load_system_host_keys()
+
 def get_server_cpu(hostname):
-	client = paramiko.SSHClient()
-	client.load_system_host_keys()
 	client.connect(hostname)
 	stdin, stdout, stderr = client.exec_command('mpstat | tail -c 6')
 
 	s = stdout.read()
 	return str(100 - float(s))
 
+def install_nginx(hostname):
+	client.connect(hostname)
+	stdin, stdout, stderr = client.exec_command('sudo apt-get install nginx nginx-extras')
+	print(stdout.read())
 
 def send_key(hostname, key):
 	client = paramiko.SSHClient()
@@ -46,7 +51,7 @@ def TAKE_DECISION(load):
 
 def MONITOR_CLUSTER():
 	s1 = get_server_cpu('montesquieu')
-	s2 = get_server_cpu('rousseau')
+	s2 = get_server_cpu('')
 
 	m = float(s1) + float(s2) / 2
 
@@ -60,13 +65,15 @@ if __name__=='__main__':
 	#t.start()
 	#t.setName('name')
 
-	try:
-		m = th.Timer(0, MONITOR_CLUSTER)
-		m.start()
-		m.join()
-		while True:
-			m = th.Timer(5, MONITOR_CLUSTER)
-			m.start()
-			m.join()
-	except(KeyboardInterrupt):
-		sys.exit(1)
+	install_nginx('montesquieu')
+
+#	try:
+#		m = th.Timer(0, MONITOR_CLUSTER)
+#		m.start()
+#		m.join()
+#		while True:
+#			m = th.Timer(5, MONITOR_CLUSTER)
+#			m.start()
+#			m.join()
+#	except(KeyboardInterrupt):
+#		sys.exit(1)
