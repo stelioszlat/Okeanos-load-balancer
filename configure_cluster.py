@@ -1,9 +1,6 @@
-import sys
-import kamaki.defaults
 from kamaki.clients.astakos import AstakosClient
 from kamaki.clients.cyclades import CycladesComputeClient
 from configure_nginx import *
-import paramiko
 
 
 def CONFIGURE_CLUSTER_REMOVE(hostname, config_file):
@@ -56,16 +53,3 @@ def REMOVE_VM(url, token, server):
             id = i['id']
             print(id)
             compute.delete_server(id)
-
-
-def CONFIGURE_VM(hostname):
-    # install nginx, sysstat (mpstat), script.sh
-    pass
-
-
-if __name__=='__main__':
-    url = 'https://astakos.okeanos-knossos.grnet.gr/identity/v2.0'
-    token = '5RD7Ve9gCQL0oveHdF03hIBG8uuoGOwpZEXg13Zt6r8'
-    project_id = 'cf93fffc-b7cb-46b2-8283-c25dc6422717'
-    ADD_VM(url, token, 'Cluster machine 3', project=project_id)
-    # REMOVE_VM(url, token, 'Cluster machine 3')
