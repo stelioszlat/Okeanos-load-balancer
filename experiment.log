@@ -1,0 +1,1829 @@
+Running 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    54.69ms   87.83ms   1.16s    97.36%
+    Req/Sec     1.42k   218.52     1.64k    89.91%
+  83125 requests in 1.00m, 13.79MB read
+Requests/sec:   1384.78
+Transfer/sec:    235.24KB
+=========================================================================
+ITERATION0
+
+
+Time: 15:40:38
+Server1 load: 13.62
+Server2 load: 3.04
+
+Cluster average load: 13.62
+
+
+Time: 15:40:41
+Server1 load: 13.64
+Server2 load: 3.04
+
+Cluster average load: 13.64
+
+
+Time: 15:40:43
+Server1 load: 13.67
+Server2 load: 3.05
+
+Cluster average load: 13.67
+
+
+Time: 15:40:46
+Server1 load: 13.69
+Server2 load: 3.05
+
+Cluster average load: 13.69
+
+
+Time: 15:40:49
+Server1 load: 13.71
+Server2 load: 3.05
+
+Cluster average load: 13.71
+
+
+Time: 15:40:52
+Server1 load: 13.74
+Server2 load: 3.05
+
+Cluster average load: 13.74
+
+
+Time: 15:40:54
+Server1 load: 13.77
+Server2 load: 3.05
+
+Cluster average load: 13.77
+
+
+Time: 15:40:57
+Server1 load: 13.79
+Server2 load: 3.05
+
+Cluster average load: 13.79
+
+
+Time: 15:40:59
+Server1 load: 13.81
+Server2 load: 3.05
+
+Cluster average load: 13.81
+
+
+Time: 15:41:02
+Server1 load: 13.84
+Server2 load: 3.06
+
+Cluster average load: 13.84
+
+
+Time: 15:41:04
+Server1 load: 13.86
+Server2 load: 3.06
+
+Cluster average load: 13.86
+
+
+Time: 15:41:07
+Server1 load: 13.89
+Server2 load: 3.06
+
+Cluster average load: 13.89
+
+
+Time: 15:41:10
+Server1 load: 13.91
+Server2 load: 3.06
+
+Cluster average load: 13.91
+
+
+Time: 15:41:12
+Server1 load: 13.93
+Server2 load: 3.06
+
+Cluster average load: 13.93
+
+
+Time: 15:41:15
+Server1 load: 13.96
+Server2 load: 3.06
+
+Cluster average load: 13.96
+
+
+Time: 15:41:17
+Server1 load: 13.98
+Server2 load: 3.06
+
+Cluster average load: 13.98
+
+
+Time: 15:41:20
+Server1 load: 14.0
+Server2 load: 3.06
+
+Cluster average load: 14.0
+
+
+Time: 15:41:23
+Server1 load: 14.02
+Server2 load: 3.07
+
+Cluster average load: 14.02
+
+
+Time: 15:41:26
+Server1 load: 14.05
+Server2 load: 3.07
+
+Cluster average load: 14.05
+
+
+Time: 15:41:28
+Server1 load: 14.07
+Server2 load: 3.07
+
+Cluster average load: 14.07
+
+
+Time: 15:41:31
+Server1 load: 14.1
+Server2 load: 3.07
+
+Cluster average load: 14.1
+
+
+Time: 15:41:33
+Server1 load: 14.12
+Server2 load: 3.07
+
+Cluster average load: 14.12
+
+
+Time: 15:41:36
+Server1 load: 14.14
+Server2 load: 3.07
+
+Cluster average load: 14.14
+
+
+Time: 15:41:38
+Server1 load: 14.14
+Server2 load: 3.07
+
+Cluster average load: 14.14
+
+
+Time: 15:41:41
+Server1 load: 14.14
+Server2 load: 3.07
+
+Cluster average load: 14.14
+
+
+Time: 15:41:44
+Server1 load: 14.14
+Server2 load: 3.07
+
+Cluster average load: 14.14
+=========================================================================
+ITERATION1
+
+
+Time: 15:41:46
+Server1 load: 14.16
+Server2 load: 3.07
+
+Cluster average load: 14.16
+
+
+Time: 15:41:49
+Server1 load: 14.18
+Server2 load: 3.07
+
+Cluster average load: 14.18
+
+
+Time: 15:41:52
+Server1 load: 14.2
+Server2 load: 3.07
+
+Cluster average load: 14.2
+
+
+Time: 15:41:55
+Server1 load: 14.22
+Server2 load: 3.07
+
+Cluster average load: 14.22
+
+
+Time: 15:41:57
+Server1 load: 14.25
+Server2 load: 3.07
+
+Cluster average load: 14.25
+
+
+Time: 15:42:00
+Server1 load: 14.27
+Server2 load: 3.07
+
+Cluster average load: 14.27
+
+
+Time: 15:42:02
+Server1 load: 14.3
+Server2 load: 3.07
+
+Cluster average load: 14.3
+
+
+Time: 15:42:05
+Server1 load: 14.32
+Server2 load: 3.07
+
+Cluster average load: 14.32
+
+
+Time: 15:42:09
+Server1 load: 14.35
+Server2 load: 3.07
+
+Cluster average load: 14.35
+
+
+Time: 15:42:11
+Server1 load: 14.37
+Server2 load: 3.07
+
+Cluster average load: 14.37
+
+
+Time: 15:42:14
+Server1 load: 14.39
+Server2 load: 3.07
+
+Cluster average load: 14.39
+
+
+Time: 15:42:16
+Server1 load: 14.42
+Server2 load: 3.07
+
+Cluster average load: 14.42
+
+
+Time: 15:42:19
+Server1 load: 14.44
+Server2 load: 3.07
+
+Cluster average load: 14.44
+
+
+Time: 15:42:21
+Server1 load: 14.47
+Server2 load: 3.07
+
+Cluster average load: 14.47
+
+
+Time: 15:42:25
+Server1 load: 14.49
+Server2 load: 3.07
+
+Cluster average load: 14.49
+
+
+Time: 15:42:27
+Server1 load: 14.51
+Server2 load: 3.07
+
+Cluster average load: 14.51
+
+
+Time: 15:42:30
+Server1 load: 14.53
+Server2 load: 3.07
+
+Cluster average load: 14.53
+
+
+Time: 15:42:33
+Server1 load: 14.56
+Server2 load: 3.07
+
+Cluster average load: 14.56
+
+
+Time: 15:42:35
+Server1 load: 14.58
+Server2 load: 3.07
+
+Cluster average load: 14.58
+
+
+Time: 15:42:38
+Server1 load: 14.61
+Server2 load: 3.07
+
+Cluster average load: 14.61
+
+
+Time: 15:42:40
+Server1Running 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    65.91ms  123.20ms   1.45s    96.08%
+    Req/Sec     1.38k   228.30     1.67k    84.48%
+  80010 requests in 1.00m, 13.27MB read
+Requests/sec:   1332.51
+Transfer/sec:    226.36KB
+Running 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    62.75ms  142.74ms   1.63s    97.73%
+    Req/Sec     1.40k   204.84     1.64k    87.37%
+  81895 requests in 1.00m, 13.59MB read
+Requests/sec:   1363.98
+Transfer/sec:    231.71KB
+ load: 14.63
+Server2 load: 3.07
+
+Cluster average load: 14.63
+
+
+Time: 15:42:43
+Server1 load: 14.65
+Server2 load: 3.07
+
+Cluster average load: 14.65
+
+
+Time: 15:42:46
+Server1 load: 14.66
+Server2 load: 3.07
+
+Cluster average load: 14.66
+
+
+Time: 15:42:48
+Server1 load: 14.66
+Server2 load: 3.08
+
+Cluster average load: 14.66
+
+
+Time: 15:42:52
+Server1 load: 14.65
+Server2 load: 3.08
+
+Cluster average load: 14.65
+
+
+Time: 15:42:54
+Server1 load: 14.65
+Server2 load: 3.08
+
+Cluster average load: 14.65
+
+
+Time: 15:42:57
+Server1 load: 14.65
+Server2 load: 3.08
+
+Cluster average load: 14.65
+
+
+Time: 15:43:00
+Server1 load: 14.64
+Server2 load: 3.08
+
+Cluster average load: 14.64
+=========================================================================
+ITERATION2
+
+
+Time: 15:43:03
+Server1 load: 14.66
+Server2 load: 3.08
+
+Cluster average load: 14.66
+
+
+Time: 15:43:05
+Server1 load: 14.69
+Server2 load: 3.08
+
+Cluster average load: 14.69
+
+
+Time: 15:43:08
+Server1 load: 14.71
+Server2 load: 3.08
+
+Cluster average load: 14.71
+
+
+Time: 15:43:11
+Server1 load: 14.74
+Server2 load: 3.08
+
+Cluster average load: 14.74
+
+
+Time: 15:43:13
+Server1 load: 14.76
+Server2 load: 3.08
+
+Cluster average load: 14.76
+
+
+Time: 15:43:16
+Server1 load: 14.78
+Server2 load: 3.08
+
+Cluster average load: 14.78
+
+
+Time: 15:43:18
+Server1 load: 14.81
+Server2 load: 3.08
+
+Cluster average load: 14.81
+
+
+Time: 15:43:21
+Server1 load: 14.83
+Server2 load: 3.08
+
+Cluster average load: 14.83
+
+
+Time: 15:43:23
+Server1 load: 14.85
+Server2 load: 3.08
+
+Cluster average load: 14.85
+
+
+Time: 15:43:26
+Server1 load: 14.88
+Server2 load: 3.08
+
+Cluster average load: 14.88
+
+
+Time: 15:43:29
+Server1 load: 14.9
+Server2 load: 3.08
+
+Cluster average load: 14.9
+
+
+Time: 15:43:31
+Server1 load: 14.93
+Server2 load: 3.08
+
+Cluster average load: 14.93
+
+
+Time: 15:43:34
+Server1 load: 14.93
+Server2 load: 3.08
+
+Cluster average load: 14.93
+
+
+Time: 15:43:37
+Server1 load: 14.96
+Server2 load: 3.08
+
+Cluster average load: 14.96
+
+
+Time: 15:43:39
+Server1 load: 14.98
+Server2 load: 3.08
+
+Cluster average load: 14.98
+
+
+Time: 15:43:42
+Server1 load: 15.01
+Server2 load: 3.08
+
+Cluster average load: 15.01
+
+
+Time: 15:43:45
+Server1 load: 15.03
+Server2 load: 3.08
+
+Cluster average load: 15.03
+
+
+Time: 15:43:47
+Server1 load: 15.06
+Server2 load: 3.08
+
+Cluster average load: 15.06
+
+
+Time: 15:43:50
+Server1 load: 15.08
+Server2 load: 3.08
+
+Cluster average load: 15.08
+
+
+Time: 15:43:52
+Server1 load: 15.1
+Server2 load: 3.08
+
+Cluster average load: 15.1
+
+
+Time: 15:43:55
+Server1 load: 15.13
+Server2 load: 3.08
+
+Cluster average load: 15.13
+
+
+Time: 15:43:58
+Server1 load: 15.15
+Server2 load: 3.08
+
+Cluster average load: 15.15
+
+
+Time: 15:44:00
+Server1 load: 15.17
+Server2 load: 3.08
+
+Cluster average load: 15.17
+=========================================================================
+ITERATION3
+
+
+Time: 15:44:03
+Server1 load: 15.19
+Server2 load: 3.08
+
+Cluster average load: 15.19
+
+
+Time: 15:44:05
+Server1 load: 15.22
+Server2 load: 3.08
+
+Cluster average load: 15.22
+
+
+Time: 15:44:08
+Server1 load: 15.24
+Server2 load: 3.08
+
+Cluster average load: 15.24
+
+
+Time: 15:44:11
+Server1 load: 15.26
+Server2 load: 3.08
+
+Cluster average load: 15.26
+
+
+Time: 15:44:14
+Server1 load: 15.29
+Server2 load: 3.08
+
+Cluster average load: 15.29
+
+
+Time: 15:44:17
+Server1 load: 15.32
+Server2 load: 3.08
+
+Cluster average load: 15.32
+
+
+Time: 15:44:19
+Server1 load: 15.34
+Server2 load: 3.08
+
+Cluster average load: 15.34
+
+
+Time: 15:44:22
+Server1 load: 15.36
+Server2 load: 3.08
+
+Cluster average load: 15.36
+
+
+Time: 15:44:24
+Server1 load: 15.39
+Server2 load: 3.08
+
+Cluster average load: 15.39
+
+
+Time: 15:44:27
+Server1 load: 15.41
+Server2 load: 3.08
+
+Cluster average load: 15.41
+
+
+Time: 15:44:29
+Server1 load: 15.43
+Server2 load: 3.08
+
+Cluster average load: 15.43
+
+
+Time: 15:44:32
+Server1 load: 15.46
+Server2 load: 3.08
+
+Cluster average load: 15.46
+
+
+Time: 15:44:34
+Server1 load: 15.48
+Server2 load: 3.08
+
+Cluster average load: 15.48
+
+
+Time: 15:44:37
+Server1 load: 15.5
+Server2 load: 3.08
+
+Cluster average load: 15.5
+
+
+Time: 15:44:40
+Server1 load: 15.53
+Server2 load: 3.08
+
+Cluster average load: 15.53
+
+
+Time: 15:44:42
+Server1 load: 15.55
+Server2 lRunning 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    31.71ms   57.58ms   1.04s    98.69%
+    Req/Sec     1.21k   158.37     1.37k    90.42%
+  71753 requests in 1.00m, 11.90MB read
+  Socket errors: connect 28, read 0, write 0, timeout 0
+Requests/sec:   1195.33
+Transfer/sec:    203.06KB
+Running 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     3.27ms    2.98ms 261.41ms   99.56%
+    Req/Sec   307.29     43.49   424.00     72.70%
+  18291 requests in 1.00m, 3.03MB read
+  Socket errors: connect 59, read 0, write 0, timeout 0
+Requests/sec:    304.57
+Transfer/sec:     51.74KB
+oad: 3.08
+
+Cluster average load: 15.55
+
+
+Time: 15:44:45
+Server1 load: 15.57
+Server2 load: 3.08
+
+Cluster average load: 15.57
+
+
+Time: 15:44:48
+Server1 load: 15.59
+Server2 load: 3.08
+
+Cluster average load: 15.59
+
+
+Time: 15:44:51
+Server1 load: 15.62
+Server2 load: 3.08
+
+Cluster average load: 15.62
+
+
+Time: 15:44:53
+Server1 load: 15.65
+Server2 load: 3.08
+
+Cluster average load: 15.65
+
+
+Time: 15:44:56
+Server1 load: 15.67
+Server2 load: 3.08
+
+Cluster average load: 15.67
+
+
+Time: 15:44:59
+Server1 load: 15.69
+Server2 load: 3.08
+
+Cluster average load: 15.69
+
+
+Time: 15:45:02
+Server1 load: 15.7
+Server2 load: 3.08
+
+Cluster average load: 15.7
+
+
+Time: 15:45:04
+Server1 load: 15.7
+Server2 load: 3.08
+
+Cluster average load: 15.7
+
+
+Time: 15:45:07
+Server1 load: 15.7
+Server2 load: 3.08
+
+Cluster average load: 15.7
+=========================================================================
+ITERATION4
+
+
+Time: 15:45:09
+Server1 load: 15.7
+Server2 load: 3.08
+
+Cluster average load: 15.7
+
+
+Time: 15:45:12
+Server1 load: 15.71
+Server2 load: 3.08
+
+Cluster average load: 15.71
+
+
+Time: 15:45:15
+Server1 load: 15.71
+Server2 load: 3.08
+
+Cluster average load: 15.71
+
+
+Time: 15:45:17
+Server1 load: 15.72
+Server2 load: 3.08
+
+Cluster average load: 15.72
+
+
+Time: 15:45:20
+Server1 load: 15.73
+Server2 load: 3.08
+
+Cluster average load: 15.73
+
+
+Time: 15:45:23
+Server1 load: 15.73
+Server2 load: 3.08
+
+Cluster average load: 15.73
+
+
+Time: 15:45:25
+Server1 load: 15.74
+Server2 load: 3.08
+
+Cluster average load: 15.74
+
+
+Time: 15:45:28
+Server1 load: 15.75
+Server2 load: 3.08
+
+Cluster average load: 15.75
+
+
+Time: 15:45:31
+Server1 load: 15.75
+Server2 load: 3.08
+
+Cluster average load: 15.75
+
+
+Time: 15:45:33
+Server1 load: 15.76
+Server2 load: 3.08
+
+Cluster average load: 15.76
+
+
+Time: 15:45:36
+Server1 load: 15.77
+Server2 load: 3.08
+
+Cluster average load: 15.77
+
+
+Time: 15:45:39
+Server1 load: 15.77
+Server2 load: 3.08
+
+Cluster average load: 15.77
+
+
+Time: 15:45:42
+Server1 load: 15.78
+Server2 load: 3.08
+
+Cluster average load: 15.78
+
+
+Time: 15:45:44
+Server1 load: 15.79
+Server2 load: 3.08
+
+Cluster average load: 15.79
+
+
+Time: 15:45:47
+Server1 load: 15.79
+Server2 load: 3.08
+
+Cluster average load: 15.79
+
+
+Time: 15:45:49
+Server1 load: 15.8
+Server2 load: 3.08
+
+Cluster average load: 15.8
+
+
+Time: 15:45:52
+Server1 load: 15.8
+Server2 load: 3.08
+
+Cluster average load: 15.8
+
+
+Time: 15:45:55
+Server1 load: 15.81
+Server2 load: 3.08
+
+Cluster average load: 15.81
+
+
+Time: 15:45:58
+Server1 load: 15.81
+Server2 load: 3.08
+
+Cluster average load: 15.81
+
+
+Time: 15:46:00
+Server1 load: 15.82
+Server2 load: 3.08
+
+Cluster average load: 15.82
+
+
+Time: 15:46:03
+Server1 load: 15.83
+Server2 load: 3.08
+
+Cluster average load: 15.83
+
+
+Time: 15:46:05
+Server1 load: 15.83
+Server2 load: 3.08
+
+Cluster average load: 15.83
+
+
+Time: 15:46:08
+Server1 load: 15.84
+Server2 load: 3.08
+
+Cluster average load: 15.84
+
+
+Time: 15:46:11
+Server1 load: 15.83
+Server2 load: 3.08
+
+Cluster average load: 15.83
+=========================================================================
+ITERATION5
+
+
+Time: 15:46:13
+Server1 load: 15.84
+Server2 load: 3.08
+
+Cluster average load: 15.84
+
+
+Time: 15:46:16
+Server1 load: 15.85
+Server2 load: 3.08
+
+Cluster average load: 15.85
+
+
+Time: 15:46:18
+Server1 load: 15.85
+Server2 load: 3.08
+
+Cluster average load: 15.85
+
+
+Time: 15:46:21
+Server1 load: 15.86
+Server2 load: 3.08
+
+Cluster average load: 15.86
+
+
+Time: 15:46:24
+Server1 load: 15.86
+Server2 load: 3.08
+
+Cluster average load: 15.86
+
+
+Time: 15:46:27
+Server1 load: 15.87
+Server2 load: 3.08
+
+Cluster average load: 15.87
+
+
+Time: 15:46:29
+Server1 load: 15.88
+Server2 load: 3.08
+
+Cluster average load: 15.88
+
+
+Time: 15:46:33
+Server1 load: 15.88
+Server2 load: 3.08
+
+Cluster average load: 15.88
+
+
+Time: 15:46:35
+Server1 load: 15.89
+Server2 load: 3.08
+
+Cluster average load: 15.89
+
+
+Time: 15:46:38
+Server1 load: 15.9
+Server2 load: 3.08
+
+Cluster average load: 15.9
+
+
+Time: 15:46:40
+Server1 load: 15.9
+Server2 load: 3.08
+
+Cluster average load: 15.9
+
+
+Time: 15:46:43
+Server1 load: 15.91
+Server2 load: 3.08
+
+Cluster average load: 15.91
+
+
+Time: 15:46:46
+Server1 load: 15.92
+Server2 load: 3.08
+
+Cluster average load:Running 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     3.65ms    6.30ms 606.26ms   99.86%
+    Req/Sec   279.23     35.85   414.00     80.57%
+  16482 requests in 1.00m, 2.73MB read
+  Socket errors: connect 59, read 0, write 0, timeout 0
+Requests/sec:    274.45
+Transfer/sec:     46.62KB
+Running 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     3.47ms    1.94ms 219.17ms   99.36%
+    Req/Sec   288.31     35.14   393.00     75.96%
+  17223 requests in 1.00m, 2.86MB read
+  Socket errors: connect 59, read 0, write 0, timeout 0
+Requests/sec:    286.78
+Transfer/sec:     48.72KB
+ 15.92
+
+
+Time: 15:46:48
+Server1 load: 15.92
+Server2 load: 3.08
+
+Cluster average load: 15.92
+
+
+Time: 15:46:51
+Server1 load: 15.93
+Server2 load: 3.08
+
+Cluster average load: 15.93
+
+
+Time: 15:46:54
+Server1 load: 15.94
+Server2 load: 3.08
+
+Cluster average load: 15.94
+
+
+Time: 15:46:56
+Server1 load: 15.94
+Server2 load: 3.08
+
+Cluster average load: 15.94
+
+
+Time: 15:46:59
+Server1 load: 15.95
+Server2 load: 3.08
+
+Cluster average load: 15.95
+
+
+Time: 15:47:01
+Server1 load: 15.95
+Server2 load: 3.08
+
+Cluster average load: 15.95
+
+
+Time: 15:47:04
+Server1 load: 15.96
+Server2 load: 3.08
+
+Cluster average load: 15.96
+
+
+Time: 15:47:07
+Server1 load: 15.97
+Server2 load: 3.08
+
+Cluster average load: 15.97
+
+
+Time: 15:47:10
+Server1 load: 15.98
+Server2 load: 3.08
+
+Cluster average load: 15.98
+
+
+Time: 15:47:13
+Server1 load: 15.98
+Server2 load: 3.08
+
+Cluster average load: 15.98
+=========================================================================
+ITERATION6
+
+
+Time: 15:47:15
+Server1 load: 15.98
+Server2 load: 3.08
+
+Cluster average load: 15.98
+
+
+Time: 15:47:18
+Server1 load: 15.99
+Server2 load: 3.08
+
+Cluster average load: 15.99
+
+
+Time: 15:47:21
+Server1 load: 16.0
+Server2 load: 3.08
+
+Cluster average load: 16.0
+
+
+Time: 15:47:23
+Server1 load: 16.0
+Server2 load: 3.08
+
+Cluster average load: 16.0
+
+
+Time: 15:47:26
+Server1 load: 16.01
+Server2 load: 3.08
+
+Cluster average load: 16.01
+
+
+Time: 15:47:29
+Server1 load: 16.01
+Server2 load: 3.08
+
+Cluster average load: 16.01
+
+
+Time: 15:47:31
+Server1 load: 16.02
+Server2 load: 3.08
+
+Cluster average load: 16.02
+
+
+Time: 15:47:34
+Server1 load: 16.02
+Server2 load: 3.08
+
+Cluster average load: 16.02
+
+
+Time: 15:47:37
+Server1 load: 16.03
+Server2 load: 3.08
+
+Cluster average load: 16.03
+
+
+Time: 15:47:39
+Server1 load: 16.04
+Server2 load: 3.08
+
+Cluster average load: 16.04
+
+
+Time: 15:47:42
+Server1 load: 16.04
+Server2 load: 3.08
+
+Cluster average load: 16.04
+
+
+Time: 15:47:45
+Server1 load: 16.05
+Server2 load: 3.08
+
+Cluster average load: 16.05
+
+
+Time: 15:47:48
+Server1 load: 16.06
+Server2 load: 3.08
+
+Cluster average load: 16.06
+
+
+Time: 15:47:50
+Server1 load: 16.06
+Server2 load: 3.08
+
+Cluster average load: 16.06
+
+
+Time: 15:47:53
+Server1 load: 16.07
+Server2 load: 3.08
+
+Cluster average load: 16.07
+
+
+Time: 15:47:55
+Server1 load: 16.08
+Server2 load: 3.08
+
+Cluster average load: 16.08
+
+
+Time: 15:47:58
+Server1 load: 16.08
+Server2 load: 3.08
+
+Cluster average load: 16.08
+
+
+Time: 15:48:01
+Server1 load: 16.09
+Server2 load: 3.08
+
+Cluster average load: 16.09
+
+
+Time: 15:48:03
+Server1 load: 16.09
+Server2 load: 3.08
+
+Cluster average load: 16.09
+
+
+Time: 15:48:06
+Server1 load: 16.1
+Server2 load: 3.08
+
+Cluster average load: 16.1
+
+
+Time: 15:48:09
+Server1 load: 16.11
+Server2 load: 3.08
+
+Cluster average load: 16.11
+
+
+Time: 15:48:11
+Server1 load: 16.11
+Server2 load: 3.08
+
+Cluster average load: 16.11
+
+
+Time: 15:48:14
+Server1 load: 16.12
+Server2 load: 3.08
+
+Cluster average load: 16.12
+=========================================================================
+ITERATION7
+
+
+Time: 15:48:17
+Server1 load: 16.12
+Server2 load: 3.08
+
+Cluster average load: 16.12
+
+
+Time: 15:48:20
+Server1 load: 16.13
+Server2 load: 3.08
+
+Cluster average load: 16.13
+
+
+Time: 15:48:22
+Server1 load: 16.13
+Server2 load: 3.08
+
+Cluster average load: 16.13
+
+
+Time: 15:48:25
+Server1 load: 16.14
+Server2 load: 3.08
+
+Cluster average load: 16.14
+
+
+Time: 15:48:27
+Server1 load: 16.15
+Server2 load: 3.08
+
+Cluster average load: 16.15
+
+
+Time: 15:48:30
+Server1 load: 16.15
+Server2 load: 3.08
+
+Cluster average load: 16.15
+
+
+Time: 15:48:33
+Server1 load: 16.16
+Server2 load: 3.08
+
+Cluster average load: 16.16
+
+
+Time: 15:48:35
+Server1 load: 16.16
+Server2 load: 3.08
+
+Cluster average load: 16.16
+
+
+Time: 15:48:38
+Server1 load: 16.17
+Server2 load: 3.08
+
+Cluster average load: 16.17
+
+
+Time: 15:48:41
+Server1 load: 16.18
+Server2 load: 3.08
+
+Cluster average load: 16.18
+
+
+Time: 15:48:43
+Server1 load: 16.18
+Server2 load: 3.08
+
+Cluster average load: 16.18
+
+
+Time: 15:48:46
+Server1 load: 16.19
+Server2 load: 3.08
+
+Cluster average load: 16.19
+
+
+Time: 15:48:48
+Server1 load: 16.2
+Server2 load: 3.08
+
+Cluster average load: 16.2
+
+
+Time: 15:48:52
+Running 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     3.61ms    5.83ms 567.65ms   99.81%
+    Req/Sec   281.54     36.46   380.00     79.76%
+  16673 requests in 1.00m, 2.77MB read
+  Socket errors: connect 59, read 0, write 0, timeout 0
+Requests/sec:    277.60
+Transfer/sec:     47.16KB
+Running 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     3.39ms   10.60ms 790.91ms   99.96%
+    Req/Sec   311.05     45.66   430.00     72.82%
+  18185 requests in 1.00m, 3.02MB read
+  Socket errors: connect 59, read 0, write 0, timeout 0
+Requests/sec:    302.76
+Transfer/sec:     51.43KB
+Server1 load: 16.2
+Server2 load: 3.08
+
+Cluster average load: 16.2
+
+
+Time: 15:48:54
+Server1 load: 16.21
+Server2 load: 3.08
+
+Cluster average load: 16.21
+
+
+Time: 15:48:57
+Server1 load: 16.22
+Server2 load: 3.08
+
+Cluster average load: 16.22
+
+
+Time: 15:49:00
+Server1 load: 16.22
+Server2 load: 3.08
+
+Cluster average load: 16.22
+
+
+Time: 15:49:02
+Server1 load: 16.23
+Server2 load: 3.08
+
+Cluster average load: 16.23
+
+
+Time: 15:49:05
+Server1 load: 16.24
+Server2 load: 3.08
+
+Cluster average load: 16.24
+
+
+Time: 15:49:08
+Server1 load: 16.24
+Server2 load: 3.08
+
+Cluster average load: 16.24
+
+
+Time: 15:49:10
+Server1 load: 16.25
+Server2 load: 3.08
+
+Cluster average load: 16.25
+
+
+Time: 15:49:13
+Server1 load: 16.25
+Server2 load: 3.08
+
+Cluster average load: 16.25
+
+
+Time: 15:49:15
+Server1 load: 16.26
+Server2 load: 3.08
+
+Cluster average load: 16.26
+
+
+Time: 15:49:18
+Server1 load: 16.25
+Server2 load: 3.08
+
+Cluster average load: 16.25
+
+
+Time: 15:49:21
+Server1 load: 16.25
+Server2 load: 3.08
+
+Cluster average load: 16.25
+
+
+Time: 15:49:23
+Server1 load: 16.25
+Server2 load: 3.08
+
+Cluster average load: 16.25
+
+
+Time: 15:49:26
+Server1 load: 16.24
+Server2 load: 3.08
+
+Cluster average load: 16.24
+
+
+Time: 15:49:29
+Server1 load: 16.24
+Server2 load: 3.08
+
+Cluster average load: 16.24
+=========================================================================
+ITERATION8
+
+
+Time: 15:49:32
+Server1 load: 16.25
+Server2 load: 3.08
+
+Cluster average load: 16.25
+
+
+Time: 15:49:34
+Server1 load: 16.25
+Server2 load: 3.08
+
+Cluster average load: 16.25
+
+
+Time: 15:49:37
+Server1 load: 16.26
+Server2 load: 3.08
+
+Cluster average load: 16.26
+
+
+Time: 15:49:39
+Server1 load: 16.26
+Server2 load: 3.08
+
+Cluster average load: 16.26
+
+
+Time: 15:49:42
+Server1 load: 16.27
+Server2 load: 3.08
+
+Cluster average load: 16.27
+
+
+Time: 15:49:45
+Server1 load: 16.27
+Server2 load: 3.08
+
+Cluster average load: 16.27
+
+
+Time: 15:49:47
+Server1 load: 16.28
+Server2 load: 3.08
+
+Cluster average load: 16.28
+
+
+Time: 15:49:50
+Server1 load: 16.28
+Server2 load: 3.08
+
+Cluster average load: 16.28
+
+
+Time: 15:49:53
+Server1 load: 16.29
+Server2 load: 3.08
+
+Cluster average load: 16.29
+
+
+Time: 15:49:55
+Server1 load: 16.3
+Server2 load: 3.08
+
+Cluster average load: 16.3
+
+
+Time: 15:49:58
+Server1 load: 16.3
+Server2 load: 3.08
+
+Cluster average load: 16.3
+
+
+Time: 15:50:00
+Server1 load: 16.31
+Server2 load: 3.08
+
+Cluster average load: 16.31
+
+
+Time: 15:50:03
+Server1 load: 16.31
+Server2 load: 3.08
+
+Cluster average load: 16.31
+
+
+Time: 15:50:06
+Server1 load: 16.32
+Server2 load: 3.08
+
+Cluster average load: 16.32
+
+
+Time: 15:50:08
+Server1 load: 16.32
+Server2 load: 3.08
+
+Cluster average load: 16.32
+
+
+Time: 15:50:11
+Server1 load: 16.33
+Server2 load: 3.08
+
+Cluster average load: 16.33
+
+
+Time: 15:50:14
+Server1 load: 16.34
+Server2 load: 3.08
+
+Cluster average load: 16.34
+
+
+Time: 15:50:16
+Server1 load: 16.34
+Server2 load: 3.08
+
+Cluster average load: 16.34
+
+
+Time: 15:50:19
+Server1 load: 16.34
+Server2 load: 3.08
+
+Cluster average load: 16.34
+
+
+Time: 15:50:21
+Server1 load: 16.35
+Server2 load: 3.08
+
+Cluster average load: 16.35
+
+
+Time: 15:50:24
+Server1 load: 16.36
+Server2 load: 3.08
+
+Cluster average load: 16.36
+
+
+Time: 15:50:27
+Server1 load: 16.36
+Server2 load: 3.08
+
+Cluster average load: 16.36
+
+
+Time: 15:50:30
+Server1 load: 16.37
+Server2 load: 3.08
+
+Cluster average load: 16.37
+=========================================================================
+ITERATION9
+
+
+Time: 15:50:32
+Server1 load: 16.37
+Server2 load: 3.08
+
+Cluster average load: 16.37
+
+
+Time: 15:50:35
+Server1 load: 16.38
+Server2 load: 3.08
+
+Cluster average load: 16.38
+
+
+Time: 15:50:38
+Server1 load: 16.39
+Server2 load: 3.08
+
+Cluster average load: 16.39
+
+
+Time: 15:50:41
+Server1 load: 16.39
+Server2 load: 3.08
+
+Cluster average load: 16.39
+
+
+Time: 15:50:43
+Server1 load: 16.4
+Server2 load: 3.08
+
+Cluster average load: 16.4
+
+
+Time: 15:50:46
+Server1 load: 16.4
+Server2 load: 3.08
+
+Cluster average load: 16.4
+
+
+Time: 15:50:48
+Server1 load: 16.41
+Server2 load: 3.08
+
+Cluster average load: 16.41
+
+
+Time: 15:50:51
+Server1 load: 16.42
+Server2 load: 3.08
+
+Cluster average load: 16.42
+
+
+Time: 15:50:54
+Server1 load: 16.42
+ServerRunning 1m test @ http://localhost:8080
+  1 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     3.36ms    4.52ms 450.66ms   99.78%
+    Req/Sec   300.80     45.36   404.00     74.29%
+  17855 requests in 1.00m, 2.96MB read
+  Socket errors: connect 59, read 0, write 0, timeout 0
+Requests/sec:    297.23
+Transfer/sec:     50.49KB
+2 load: 3.08
+
+Cluster average load: 16.42
+
+
+Time: 15:50:57
+Server1 load: 16.43
+Server2 load: 3.08
+
+Cluster average load: 16.43
+
+
+Time: 15:50:59
+Server1 load: 16.43
+Server2 load: 3.08
+
+Cluster average load: 16.43
+
+
+Time: 15:51:02
+Server1 load: 16.44
+Server2 load: 3.08
+
+Cluster average load: 16.44
+
+
+Time: 15:51:04
+Server1 load: 16.44
+Server2 load: 3.08
+
+Cluster average load: 16.44
+
+
+Time: 15:51:07
+Server1 load: 16.45
+Server2 load: 3.08
+
+Cluster average load: 16.45
+
+
+Time: 15:51:10
+Server1 load: 16.46
+Server2 load: 3.08
+
+Cluster average load: 16.46
+
+
+Time: 15:51:12
+Server1 load: 16.46
+Server2 load: 3.08
+
+Cluster average load: 16.46
+
+
+Time: 15:51:15
+Server1 load: 16.47
+Server2 load: 3.08
+
+Cluster average load: 16.47
+
+
+Time: 15:51:18
+Server1 load: 16.47
+Server2 load: 3.09
+
+Cluster average load: 16.47
+
+
+Time: 15:51:21
+Server1 load: 16.48
+Server2 load: 3.09
+
+Cluster average load: 16.48
+
+
+Time: 15:51:23
+Server1 load: 16.49
+Server2 load: 3.09
+
+Cluster average load: 16.49
+
+
+Time: 15:51:26
+Server1 load: 16.49
+Server2 load: 3.09
+
+Cluster average load: 16.49
+
+
+Time: 15:51:29
+Server1 load: 16.5
+Server2 load: 3.09
+
+Cluster average load: 16.5
+
+
+Time: 15:51:32
+Server1 load: 16.5
+Server2 load: 3.09
+
+Cluster average load: 16.5
