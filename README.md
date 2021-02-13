@@ -1,2 +1,2 @@
 # load_balancer_project
-configuration files for cloud computing course project
+Okeanos PaaS based load balancer written in Python implementing Paramiko, Kamaki and OpenSSH APIs
